@@ -1,5 +1,5 @@
 fun main() {
-    /*
+    
     real n1, n2, n3, n4, result1, result2, result3, result4
 
 		escreva("Digite a primeiro número: ")
@@ -26,8 +26,8 @@ fun main() {
 			escreva("Valores fornecidos com resultado ao quadrado: \nn1: ",n1, " = ", result1,
 			"\nn2: ", n2, " = ", result2,
 			"\nn3: ", n3, " = ", result3,
-			"\nn4: ", n4, " = ", result4) 
-     */
-    println("Hello World!")
+			"\nn4: ", n4, " = ", result4)
+
+
     
 }
